@@ -32,9 +32,11 @@ namespace DecoratorRuntimeCache
                 return availableItems;
             }
         }
-        public List<string> GetDefaultItems()
+        public List<MyData> GetDefaultItems()
         {
-            return new List<string>() {"Car", "Bike", "Truck", "Plane" };
+            DataItemsEntities dataItemsEntities = new DataItemsEntities();
+            List<MyData> data = dataItemsEntities.MyDatas.ToList();
+            return data;
         }
     }
 }

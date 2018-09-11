@@ -15,8 +15,12 @@ namespace DecoratorRuntimeCache
         }
         public override IEnumerable GetItems()
         {
-            List<string> list = (List<string>)base.GetItems();
-            list.Add("new item");
+            List<MyData> list = (List<MyData>)base.GetItems();
+            MyData myData = new MyData();
+            myData.id = 102;
+            myData.name = "pencil";
+            myData.price = 5;
+            list.Add(myData);
             return list;
         }
     }
