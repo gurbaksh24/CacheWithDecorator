@@ -1,0 +1,11 @@
+C:\Users\ggabbi\source\repos\DecoratorRuntimeCache\DecoratorRuntimeCache\bin\Debug\DecoratorRuntimeCache.exe.config
+C:\Users\ggabbi\source\repos\DecoratorRuntimeCache\DecoratorRuntimeCache\bin\Debug\DecoratorRuntimeCache.exe
+C:\Users\ggabbi\source\repos\DecoratorRuntimeCache\DecoratorRuntimeCache\bin\Debug\DecoratorRuntimeCache.pdb
+C:\Users\ggabbi\source\repos\DecoratorRuntimeCache\DecoratorRuntimeCache\obj\Debug\DecoratorRuntimeCache.csprojResolveAssemblyReference.cache
+C:\Users\ggabbi\source\repos\DecoratorRuntimeCache\DecoratorRuntimeCache\obj\Debug\DecoratorRuntimeCache.csproj.CoreCompileInputs.cache
+C:\Users\ggabbi\source\repos\DecoratorRuntimeCache\DecoratorRuntimeCache\obj\Debug\DecoratorRuntimeCache.exe
+C:\Users\ggabbi\source\repos\DecoratorRuntimeCache\DecoratorRuntimeCache\obj\Debug\DecoratorRuntimeCache.pdb
+C:\Users\ggabbi\source\repos\DecoratorRuntimeCache\DecoratorRuntimeCache\bin\Debug\EntityFramework.dll
+C:\Users\ggabbi\source\repos\DecoratorRuntimeCache\DecoratorRuntimeCache\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ggabbi\source\repos\DecoratorRuntimeCache\DecoratorRuntimeCache\bin\Debug\EntityFramework.xml
+C:\Users\ggabbi\source\repos\DecoratorRuntimeCache\DecoratorRuntimeCache\bin\Debug\EntityFramework.SqlServer.xml
